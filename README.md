@@ -40,11 +40,19 @@ The right way for a child to watch online videos is under the supervision of an 
 
 So, in my view, on top of all the investment into highly complex artificial intelligence algorithms with preemptive capability, the legal battle and invested support provided by devoted associations, I wanted to have more control over what my son was watching. So the approach I took was to create something that would catalog his usage, summarize and flag suspicious activity. Something that could make my job of supervisor a little easier. And that was the incentive behind Tube n' kids.
 
-[![iOS parent area](/assets/Tnk_detail.png)](https://itunes.apple.com/us/app/tube-n-kids/id1143617624?mt=8)
-*Parental area in the iOS app*
+<p align="center">
+  <a href="https://itunes.apple.com/us/app/tube-n-kids/id1143617624?mt=8" rel="nofollow">
+		<img src="/assets/Tnk_detail.png" width="512" title="iOS parent area">
+	</a>
+</p>
+<p align="center"><em>Parental area in the iOS app</em></p>
 
-[![Web parent area](/assets/Tnk_detail_2.png)](https://www.tubenkids.com)
-*Parental area in the web app*
+<p align="center">
+  <a href="https://www.tubenkids.com" rel="nofollow">
+		<img src="/assets/Tnk_detail_2.png" width="512" title="Web parent area">
+	</a>
+</p>
+<p align="center"><em>Parental area in the web app</em></p>
 
 It is not a silver bullet. It does not stop bad content from showing up. It does not make it OK to handle and iPad to the kids and let them watch videos alone all day. It does not remove from the parents the responsibility of supervising their kids. It helps them do it.
 
@@ -54,8 +62,12 @@ And, of course, everything is for naught if the child is actively looking for th
 
 And that was another thing I put in Tube n' kids. I can search for channels that I know he likes, and I can add them to his list of suggestions. I can browse his history and find the subject he is interested in - like Minecraft and Beyblade, recently - and try to find good channels about those. There were times this strategy didn't work, like with a few amazing zoo channels I found and he dismissed without giving them a second look. Still, it is another way to put inspiring content in front of him.
 
-[![What the child views](/assets/Tnk_child_view.png)](https://www.tubenkids.com)
-*Child area*
+<p align="center">
+  <a href="https://www.tubenkids.com" rel="nofollow">
+		<img src="/assets/Tnk_child_view.png" width="512" title="What the child views">
+	</a>
+</p>
+<p align="center"><em>Child area</em></p>
 
 At some point he may find something that is not appropriated to him. Probably he won't even understand it, and close it right away. This is where Tnk comes in handy by allowing me to block the video, or the entire channel for that matter, which means that it will not appear for my son, even if he looks for it.
 
