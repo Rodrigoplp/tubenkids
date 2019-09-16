@@ -3,10 +3,10 @@ A tool to protect children from unwanted online videos.
 
 <p align="center">
   <a href="https://www.tubenkids.com" rel="nofollow">
-		<img src="/assets/Tnk_main_2.png" width="256" title="Tube n' kids">
+		<img src="/assets/Tnk_main_2.png" width="512" title="Tube n' kids">
 	</a>
-	<em>Tube n' kids</em>
 </p>
+<p align="center"><em>Tube n' kids</em></p>
 
 ## Why we need to do more to protect our children
 
