@@ -1,6 +1,8 @@
 # Tube n' kids
 A tool to protect children from unwanted online videos.
 
+![Tube n' kids](/assets/Tnk_main.png)
+
 ## Why we need to do more to protect our children
 
 Not long ago, four or five years past, television advertisements on channels for kids used to drive me crazy. It would bother me how targeted they felt, flashing every 15 minutes the same toys, the baby food, diapers, pacifiers and so forth. Are we nothing but what we can buy?
