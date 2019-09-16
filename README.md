@@ -1,8 +1,12 @@
 # Tube n' kids
 A tool to protect children from unwanted online videos.
 
-[![Tube n' kids](/assets/Tnk_main.png)](https://www.tubenkids.com)
-*Tube n' kids*
+<p align="center">
+  <a href="https://www.tubenkids.com" rel="nofollow">
+		<img src="/assets/Tnk_main_2.png" width="256" title="Tube n' kids">
+	</a>
+	<em>Tube n' kids</em>
+</p>
 
 ## Why we need to do more to protect our children
 
@@ -50,7 +54,7 @@ And, of course, everything is for naught if the child is actively looking for th
 
 And that was another thing I put in Tube n' kids. I can search for channels that I know he likes, and I can add them to his list of suggestions. I can browse his history and find the subject he is interested in - like Minecraft and Beyblade, recently - and try to find good channels about those. There were times this strategy didn't work, like with a few amazing zoo channels I found and he dismissed without giving them a second look. Still, it is another way to put inspiring content in front of him.
 
-[![What the child views](/assets/Tnk_shild_view.png)](https://www.tubenkids.com)
+[![What the child views](/assets/Tnk_child_view.png)](https://www.tubenkids.com)
 *Child area*
 
 At some point he may find something that is not appropriated to him. Probably he won't even understand it, and close it right away. This is where Tnk comes in handy by allowing me to block the video, or the entire channel for that matter, which means that it will not appear for my son, even if he looks for it.
