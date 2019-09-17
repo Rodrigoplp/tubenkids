@@ -2,7 +2,7 @@
 A tool to protect children from unwanted online videos.
 
 <p align="center">
-  <a href="https://www.tubenkids.com" rel="nofollow">
+  <a href="https://www.tubenkids.com/?utm_source=github&utm_medium=blog&utm_campaign=top" rel="nofollow">
 		<img src="/assets/Tnk_main_2.png" width="512" title="Tube n' kids">
 	</a>
 </p>
@@ -48,7 +48,7 @@ So, in my view, on top of all the investment into highly complex artificial inte
 <p align="center"><em>Parental area in the iOS app</em></p>
 
 <p align="center">
-  <a href="https://www.tubenkids.com" rel="nofollow">
+  <a href="https://www.tubenkids.com/?utm_source=github&utm_medium=blog&utm_campaign=middle" rel="nofollow">
 		<img src="/assets/Tnk_detail_2.png" width="512" title="Web parent area">
 	</a>
 </p>
@@ -63,7 +63,7 @@ And, of course, everything is for naught if the child is actively looking for th
 And that was another thing I put in Tube n' kids. I can search for channels that I know he likes, and I can add them to his list of suggestions. I can browse his history and find the subject he is interested in - like Minecraft and Beyblade, recently - and try to find good channels about those. There were times this strategy didn't work, like with a few amazing zoo channels I found and he dismissed without giving them a second look. Still, it is another way to put inspiring content in front of him.
 
 <p align="center">
-  <a href="https://www.tubenkids.com" rel="nofollow">
+  <a href="https://www.tubenkids.com/?utm_source=github&utm_medium=blog&utm_campaign=bottom" rel="nofollow">
 		<img src="/assets/Tnk_child_view.png" width="512" title="What the child views">
 	</a>
 </p>
